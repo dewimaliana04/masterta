@@ -1,0 +1,30 @@
+{
+    "ukm": [
+        {
+            "id_ukm": "1",
+            "nama_ukm": "UKM Futsal",
+            "sejarah": "sejarah ukm Futsal",
+            "visi": "visi ukm Futsal",
+            "misi": "misi ukm Futsal",
+            "gambar": "ukm1.jpg"
+        },
+        {
+            "id_ukm": "2",
+            "nama_ukm": "UKM Bakset",
+            "sejarah": "sejarah ukm Bakset",
+            "visi": "visi ukm Bakset",
+            "misi": "misi ukm Bakset",
+            "gambar": "ukm2.jpg"
+        },
+        {
+            "id_ukm": "3",
+            "nama_ukm": "UKM Rana 9",
+            "sejarah": "sejarah ukm Rana 9",
+            "visi": "visi ukm Rana 9",
+            "misi": "misi ukm Rana 9",
+            "gambar": "ukm3.jpg"
+        }
+    ],
+    "message": "Success Load UKM",
+    "success": true
+}
